@@ -1,0 +1,29 @@
+_repo: Jean-Craig-Grows-Up_65427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lyttleton, Kay
+    gutenberg_agent_id: '53199'
+    url: http://www.gutenberg.org/2009/agents/53199
+    wikipedia: http://www.gutenberg.org/ebooks/author/47260
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65427'
+  lccn: '48011676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Moving, Household -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Ghosts -- Juvenile fiction'
+- !lcsh 'First loves -- Juvenile fiction'
+- GITenberg
+title: Jean Craig Grows Up
+url: http://www.gutenberg.org/ebooks/65427
